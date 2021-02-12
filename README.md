@@ -31,12 +31,12 @@ sudo make uninstall
 
 ## To-Dos:
 
-[x] Piping support
-[ ] Reverse direction support (i. e., hexdump)
-[ ] Append support
-[ ] Multiple file support
-- [ ] Allow reading from multiple files
-- [ ] Allow layout files to specify where data should go
+- [x] Piping support
+- [ ] Reverse direction support (i. e., hexdump)
+- [ ] Append support
+- [ ] Multiple file support
+  - [ ] Allow reading from multiple files
+  - [ ] Allow layout files to specify where data should go
 
 ## License
 
